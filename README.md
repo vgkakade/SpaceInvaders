@@ -1,4 +1,5 @@
-Space Invader game developed using Pygame library. 
-The evil Galatic Empire after destroying many other galaxies has landed on your planet and wants to destroy our home,
-with the new developed technology of randomly appearing swarm of enemies, Galatic Empire is ready to be the cause of human extinction. You being the last hope of our Home have to defend it against the evil intentions.
+<p>The evil Galatic Empire after destroying many other galaxies has landed on your planet to destroy our home, with its advanced technology of randomly appearing swarm of enemies, Galatic Empire is ready to be the cause of human extinction. <br/>
+Being the last hope of our Home you against all odds have to defend it from Galatic Empire's evil intentions.</p> <br/><br/>
+
+Space Invader game developed using Python & Pygame library.
  
